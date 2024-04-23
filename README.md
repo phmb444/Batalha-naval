@@ -31,14 +31,3 @@ Este projeto implementa o clássico jogo Batalha Naval em Java, permitindo parti
 4. Siga as instruções na tela para selecionar o modo de jogo, posicionar seus barcos e realizar disparos.
 5. O jogo se encerrará quando um jogador afundar todos os barcos do oponente.
 
-### Licença
-
-MIT
-
-### Contribuindo
-
-Sinta-se à vontade para contribuir com este projeto! Envie suas sugestões, correções de bugs ou novas funcionalidades através de pull requests.
-
-### Contato
-
-Para dúvidas ou sugestões, entre em contato: [seu email ou link para contato]
